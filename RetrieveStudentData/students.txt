@@ -1,0 +1,21 @@
+Name   : Anvitha
+College: Narayana
+Course : ECE
+Marks  : 880
+
+
+Name   : Chindhu
+College: MLRITM
+Course : Computer Science
+Marks  : 750
+
+Name   : Sudha
+College: St Peters
+Course : Information Science 
+Marks  : 650
+
+Name   : Nandhini
+College: NIT
+Course : Computer Science
+Marks  : 850
+
